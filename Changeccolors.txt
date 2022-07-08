@@ -1,0 +1,46 @@
+#4acaa8   changed to A6376B
+
+	1787  header.major h2 {
+		color: #4acaa8;
+		font-size: 3.5em;
+	}
+
+
+1846
+input[type="text"]:focus,
+		input[type="password"]:focus,
+		input[type="email"]:focus,
+		select:focus,
+		textarea:focus {
+			border-color: #4acaa8;
+		}
+		
+		
+		
+1954
+2404
+2621
+2629
+2636
+2703      main background    changed to d9c5c4 
+2811
+3079
+2775
+2792
+2811
+--=-=-=-=-=-
+2719  my name under the photo  changed to 9c646f
+2753 under my photo   
+3079  3 lines  menu
+1788 first title in body "read only"
+1851
+1956
+2405  circles in the middle of the page  -- icons
+2621 , 2629    buttons 
+2636
+
+-=-=--==-=-=-
+
+2539  button hover color a5a5a5 changed to 
+-=-=-=-=-=-
+2775 Icons --media  changed to d9c5c4
